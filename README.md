@@ -136,8 +136,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Pmaioranool/Pmaioranool/output/snake.svg" alt="Snake animation" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pmaioranool/Pmaioranool/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pmaioranool/Pmaioranool/output/github-snake.svg" />
